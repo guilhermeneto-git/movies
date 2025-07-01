@@ -1,7 +1,10 @@
 This project aims to store nominees and winners of the worst picture category of the Golden Raspberry Awards.
 
-Clone the project through the git clone command.
-Once the project is cloned in your local machine, open it in an IDE (I used Intellij free version) and then follow the next steps.  
+- Clone the project through the git clone command.
+
+- Once the project is cloned in your local machine, open it in an IDE (I used Intellij free version).
+
+- Then follow the next steps.  
 
 **To run the application:**  
 1 - Expand the `src/main/java/com/outsera/movies` package.  
