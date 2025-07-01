@@ -4,8 +4,8 @@ This project aims to store nominees and winners of the worst picture category of
 1 - Expand the `src/main/java/com/outsera/movies` package.  
 2 - Click the right button on `MoviesApplication` (java class).  
 3 - On the dialog opened, click the left button on `Run MoviesApplication...main()` option.  
-4 - The application must start automatically.
-5 - The initial data must be imported from csv file to the database automatically.
+4 - The application must start automatically.  
+5 - The initial data must be imported from csv file to the database automatically.  
 
 Steps 5 until 8 were tested using the Chrome browser  
 5 - To retrieve all studios pre-inserted, access the browser with the url:  
